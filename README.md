@@ -23,3 +23,11 @@ Check Container Process
 $ docker ps -a
 
 #### K8s 
+
+#### Cloud Computing
+
+Interview Questions: 
+https://www.javatpoint.com/cloud-computing-interview-questions
+
+Interview Questions: 
+https://www.guru99.com/cloud-computing-interview-questions.html
