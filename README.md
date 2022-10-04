@@ -1,8 +1,14 @@
 # TechnicalServiceEngineer
  
+#### Linux Commands 
+https://www.git-tower.com/blog/command-line-cheat-sheet/
+
 #### Docker 
-Docker Commands: https://www.interviewbit.com/docker-cheat-sheet/
-Docker Tutorial: https://faun.pub/hello-world-in-docker-using-python-9b3eb418fb15
+Docker Commands: 
+https://www.interviewbit.com/docker-cheat-sheet/
+
+Docker Tutorial: 
+https://faun.pub/hello-world-in-docker-using-python-9b3eb418fb15
 
 To show all images
 $ docker images
